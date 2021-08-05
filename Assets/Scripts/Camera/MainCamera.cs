@@ -7,6 +7,7 @@ public class MainCamera : MonoBehaviour
     [SerializeField] private Transform playerTransform;
     [SerializeField] private float cameraSpeed;
     [SerializeField] private string playerTag;
+    int a;
     private void Start()
     {
        
